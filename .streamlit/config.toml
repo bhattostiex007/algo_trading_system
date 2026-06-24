@@ -1,0 +1,15 @@
+[theme]
+# Primary accent color (Purple)
+primaryColor = "#a32cc4"
+
+# Pure Black background
+backgroundColor = "#000000"
+
+# Dark, subtle gray for sidebar/widgets
+secondaryBackgroundColor = "#0a0a0a"
+
+# White text for high contrast
+textColor = "#ffffff"
+
+# Roman (Serif) font style
+font = "serif"

@@ -1,0 +1,3 @@
+@echo off
+echo Starting Algo Trading System Dashboard...
+.venv\Scripts\python -m streamlit run app.py
