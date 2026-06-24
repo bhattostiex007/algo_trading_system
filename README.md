@@ -9,7 +9,7 @@
 
 An end-to-end algorithmic trading and portfolio optimization engine built in Python. This system downloads live market data, generates vectorised technical trading signals, executes a historically accurate backtest, attributes performance using the **Fama-French 3-Factor Model**, and optimizes capital allocation using **Markowitz Mean-Variance Optimization** and the **Black-Litterman Model**.
 
-**Live Dashboard Application included.**
+🚀 **[View Live Dashboard on Render](https://algo-trading-dashboard-m36t.onrender.com)** 🚀
 
 ---
 
@@ -45,6 +45,8 @@ An end-to-end algorithmic trading and portfolio optimization engine built in Pyt
 
 The project includes an interactive web application allowing users to visualize equity curves, Fama-French metrics, and Black-Litterman allocations without interacting with code.
 
+**🌐 Live App:** [https://algo-trading-dashboard-m36t.onrender.com](https://algo-trading-dashboard-m36t.onrender.com)
+
 ### Running Locally
 ```bash
 # Clone the repository
@@ -63,7 +65,7 @@ streamlit run app.py
 ```bash
 docker-compose up --build
 ```
-The dashboard will be available at `http://localhost:8501`.
+The dashboard will then be available at `http://localhost:8501`.
 
 ---
 
