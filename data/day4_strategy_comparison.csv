@@ -1,0 +1,6 @@
+Strategy,Total Return (%),CAGR (%),Sharpe,Sortino,Max Drawdown (%),Ann. Vol (%)
+EMA Crossover,10.12,1.43,0.446,0.542,6.93,3.32
+RSI Reversion,56.26,6.79,0.603,0.69,11.03,11.78
+MACD Momentum,314.29,23.29,1.168,1.466,27.19,13.27
+Price Trend,198.08,17.45,1.09,1.374,21.38,13.54
+Buy & Hold (benchmark),558.9,32.01,1.046,1.405,48.59,31.26
