@@ -4,13 +4,6 @@ FROM python:3.11-slim
 # Set the working directory in the container
 WORKDIR /app
 
-# Install system dependencies (required for some C-extensions like numpy/scipy)
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    curl \
-    software-properties-common \
-    && rm -rf /var/lib/apt/lists/*
-
 # Copy the requirements file into the container
 COPY requirements.txt .
 
